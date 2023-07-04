@@ -1,0 +1,7 @@
+fastapi
+mongoengine
+passlib[bcrypt]
+pydantic[email,dotenv]
+python-jose[cryptography]
+python-multipart
+uvicorn
